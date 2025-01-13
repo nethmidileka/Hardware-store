@@ -1,0 +1,19 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore MySQL Connector library
+lib/mysql-connector-java-*.jar
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore other temporary files
+*.tmp
+*.swp
